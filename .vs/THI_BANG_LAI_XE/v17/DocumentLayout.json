@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1._Net\\1.PRN_212\\THI_BANG_LAI_XE\\THI_BANG_LAI_XE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F2B4EF-3058-4B92-AB7E-75003F14659B}|THI_BANG_LAI_XE\\THI_BANG_LAI_XE.csproj|d:\\1._net\\1.prn_212\\thi_bang_lai_xe\\thi_bang_lai_xe\\thi_bang_lai_xe\\models\\thibanglaixecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6F2B4EF-3058-4B92-AB7E-75003F14659B}|THI_BANG_LAI_XE\\THI_BANG_LAI_XE.csproj|solutionrelative:thi_bang_lai_xe\\models\\thibanglaixecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 42,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThiBangLaiXeContext.cs",
+              "DocumentMoniker": "D:\\1._Net\\1.PRN_212\\THI_BANG_LAI_XE\\THI_BANG_LAI_XE\\THI_BANG_LAI_XE\\Models\\ThiBangLaiXeContext.cs",
+              "RelativeDocumentMoniker": "THI_BANG_LAI_XE\\Models\\ThiBangLaiXeContext.cs",
+              "ToolTip": "D:\\1._Net\\1.PRN_212\\THI_BANG_LAI_XE\\THI_BANG_LAI_XE\\THI_BANG_LAI_XE\\Models\\ThiBangLaiXeContext.cs",
+              "RelativeToolTip": "THI_BANG_LAI_XE\\Models\\ThiBangLaiXeContext.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAuwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T03:25:03.928Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

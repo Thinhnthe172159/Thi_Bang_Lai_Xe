@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1._Net\\1.PRN_212\\THI_BANG_LAI_XE\\THI_BANG_LAI_XE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F2B4EF-3058-4B92-AB7E-75003F14659B}|THI_BANG_LAI_XE\\THI_BANG_LAI_XE.csproj|d:\\1._net\\1.prn_212\\thi_bang_lai_xe\\thi_bang_lai_xe\\thi_bang_lai_xe\\models\\exampapersselected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6F2B4EF-3058-4B92-AB7E-75003F14659B}|THI_BANG_LAI_XE\\THI_BANG_LAI_XE.csproj|solutionrelative:thi_bang_lai_xe\\models\\exampapersselected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F2B4EF-3058-4B92-AB7E-75003F14659B}|THI_BANG_LAI_XE\\THI_BANG_LAI_XE.csproj|d:\\1._net\\1.prn_212\\thi_bang_lai_xe\\thi_bang_lai_xe\\thi_bang_lai_xe\\models\\coursesdocumentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6F2B4EF-3058-4B92-AB7E-75003F14659B}|THI_BANG_LAI_XE\\THI_BANG_LAI_XE.csproj|solutionrelative:thi_bang_lai_xe\\models\\coursesdocumentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F2B4EF-3058-4B92-AB7E-75003F14659B}|THI_BANG_LAI_XE\\THI_BANG_LAI_XE.csproj|d:\\1._net\\1.prn_212\\thi_bang_lai_xe\\thi_bang_lai_xe\\thi_bang_lai_xe\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6F2B4EF-3058-4B92-AB7E-75003F14659B}|THI_BANG_LAI_XE\\THI_BANG_LAI_XE.csproj|solutionrelative:thi_bang_lai_xe\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F2B4EF-3058-4B92-AB7E-75003F14659B}|THI_BANG_LAI_XE\\THI_BANG_LAI_XE.csproj|d:\\1._net\\1.prn_212\\thi_bang_lai_xe\\thi_bang_lai_xe\\thi_bang_lai_xe\\thi_bang_lai_xe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F6F2B4EF-3058-4B92-AB7E-75003F14659B}|THI_BANG_LAI_XE\\THI_BANG_LAI_XE.csproj|solutionrelative:thi_bang_lai_xe\\thi_bang_lai_xe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F2B4EF-3058-4B92-AB7E-75003F14659B}|THI_BANG_LAI_XE\\THI_BANG_LAI_XE.csproj|d:\\1._net\\1.prn_212\\thi_bang_lai_xe\\thi_bang_lai_xe\\thi_bang_lai_xe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F6F2B4EF-3058-4B92-AB7E-75003F14659B}|THI_BANG_LAI_XE\\THI_BANG_LAI_XE.csproj|solutionrelative:thi_bang_lai_xe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F2B4EF-3058-4B92-AB7E-75003F14659B}|THI_BANG_LAI_XE\\THI_BANG_LAI_XE.csproj|d:\\1._net\\1.prn_212\\thi_bang_lai_xe\\thi_bang_lai_xe\\thi_bang_lai_xe\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F6F2B4EF-3058-4B92-AB7E-75003F14659B}|THI_BANG_LAI_XE\\THI_BANG_LAI_XE.csproj|solutionrelative:thi_bang_lai_xe\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 42,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExamPapersSelected.cs",
+              "DocumentMoniker": "D:\\1._Net\\1.PRN_212\\THI_BANG_LAI_XE\\THI_BANG_LAI_XE\\THI_BANG_LAI_XE\\Models\\ExamPapersSelected.cs",
+              "RelativeDocumentMoniker": "THI_BANG_LAI_XE\\Models\\ExamPapersSelected.cs",
+              "ToolTip": "D:\\1._Net\\1.PRN_212\\THI_BANG_LAI_XE\\THI_BANG_LAI_XE\\THI_BANG_LAI_XE\\Models\\ExamPapersSelected.cs",
+              "RelativeToolTip": "THI_BANG_LAI_XE\\Models\\ExamPapersSelected.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T03:24:19.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoursesDocumentation.cs",
+              "DocumentMoniker": "D:\\1._Net\\1.PRN_212\\THI_BANG_LAI_XE\\THI_BANG_LAI_XE\\THI_BANG_LAI_XE\\Models\\CoursesDocumentation.cs",
+              "RelativeDocumentMoniker": "THI_BANG_LAI_XE\\Models\\CoursesDocumentation.cs",
+              "ToolTip": "D:\\1._Net\\1.PRN_212\\THI_BANG_LAI_XE\\THI_BANG_LAI_XE\\THI_BANG_LAI_XE\\Models\\CoursesDocumentation.cs",
+              "RelativeToolTip": "THI_BANG_LAI_XE\\Models\\CoursesDocumentation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T03:24:00.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\1._Net\\1.PRN_212\\THI_BANG_LAI_XE\\THI_BANG_LAI_XE\\THI_BANG_LAI_XE\\appsettings.json",
+              "RelativeDocumentMoniker": "THI_BANG_LAI_XE\\appsettings.json",
+              "ToolTip": "D:\\1._Net\\1.PRN_212\\THI_BANG_LAI_XE\\THI_BANG_LAI_XE\\THI_BANG_LAI_XE\\appsettings.json",
+              "RelativeToolTip": "THI_BANG_LAI_XE\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-19T03:16:59.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "THI_BANG_LAI_XE",
+              "DocumentMoniker": "D:\\1._Net\\1.PRN_212\\THI_BANG_LAI_XE\\THI_BANG_LAI_XE\\THI_BANG_LAI_XE\\THI_BANG_LAI_XE.csproj",
+              "RelativeDocumentMoniker": "THI_BANG_LAI_XE\\THI_BANG_LAI_XE.csproj",
+              "ToolTip": "D:\\1._Net\\1.PRN_212\\THI_BANG_LAI_XE\\THI_BANG_LAI_XE\\THI_BANG_LAI_XE\\THI_BANG_LAI_XE.csproj",
+              "RelativeToolTip": "THI_BANG_LAI_XE\\THI_BANG_LAI_XE.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-19T03:13:07.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\1._Net\\1.PRN_212\\THI_BANG_LAI_XE\\THI_BANG_LAI_XE\\THI_BANG_LAI_XE\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "THI_BANG_LAI_XE\\MainWindow.xaml",
+              "ToolTip": "D:\\1._Net\\1.PRN_212\\THI_BANG_LAI_XE\\THI_BANG_LAI_XE\\THI_BANG_LAI_XE\\MainWindow.xaml",
+              "RelativeToolTip": "THI_BANG_LAI_XE\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T03:11:04.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\1._Net\\1.PRN_212\\THI_BANG_LAI_XE\\THI_BANG_LAI_XE\\THI_BANG_LAI_XE\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "THI_BANG_LAI_XE\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\1._Net\\1.PRN_212\\THI_BANG_LAI_XE\\THI_BANG_LAI_XE\\THI_BANG_LAI_XE\\MainWindow.xaml.cs",
+              "RelativeToolTip": "THI_BANG_LAI_XE\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T03:11:03.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
