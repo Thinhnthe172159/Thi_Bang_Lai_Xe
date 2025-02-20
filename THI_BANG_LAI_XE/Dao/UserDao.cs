@@ -5,7 +5,10 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Documents;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Identity.Client;
 using THI_BANG_LAI_XE.Models;
+using X.PagedList;
+using X.PagedList.Extensions;
 
 namespace THI_BANG_LAI_XE.Dao
 {
@@ -26,6 +29,14 @@ namespace THI_BANG_LAI_XE.Dao
                 throw new Exception(ex.ToString());
             }
         }
+
+        //get userList 
+        public static IPagedList<User> GetUserList(int page = 1, int pageSize = 10)
+        {
+            // using x page list
+            return _context.Users.ToPagedList(page, pageSize);
+        }
+
 
         //Get user by id
         public static User? GetUserById(long UserId)

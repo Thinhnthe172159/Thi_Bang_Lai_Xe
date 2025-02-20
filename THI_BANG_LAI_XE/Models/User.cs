@@ -21,7 +21,7 @@ public partial class User
 
     public string? Phone { get; set; }
 
-    public DateTime DateCreated { get; set; }
+    public DateTime DateCreated { get; set; } = DateTime.Now;
 
     public virtual ICollection<Certificate> Certificates { get; set; } = new List<Certificate>();
 

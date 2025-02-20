@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1zQDsgcbnBk=",
+  "dgSpecHash": "i3N54R80aGY=",
   "success": true,
-  "projectFilePath": "D:\\1._Net\\1.PRN_212\\THI_BANG_LAI_XE\\THI_BANG_LAI_XE\\THI_BANG_LAI_XE\\THI_BANG_LAI_XE.csproj",
+  "projectFilePath": "D:\\1._Net\\1.PRN_212\\project\\THI_BANG_LAI_XE\\THI_BANG_LAI_XE\\THI_BANG_LAI_XE.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thinh\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\thinh\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
@@ -85,7 +85,9 @@
     "C:\\Users\\thinh\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
     "C:\\Users\\thinh\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
     "C:\\Users\\thinh\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\thinh\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+    "C:\\Users\\thinh\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\thinh\\.nuget\\packages\\x.pagedlist\\10.5.7\\x.pagedlist.10.5.7.nupkg.sha512",
+    "C:\\Users\\thinh\\.nuget\\packages\\x.pagedlist.mvc.core\\10.5.7\\x.pagedlist.mvc.core.10.5.7.nupkg.sha512"
   ],
   "logs": []
 }
